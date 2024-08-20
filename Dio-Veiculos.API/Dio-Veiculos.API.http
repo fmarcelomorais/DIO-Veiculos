@@ -1,0 +1,6 @@
+@Dio_Veiculos.API_HostAddress = http://localhost:5056
+
+GET {{Dio_Veiculos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
